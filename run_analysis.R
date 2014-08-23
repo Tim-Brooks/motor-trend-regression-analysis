@@ -9,6 +9,6 @@ plot <- function() {
 
 prep_data <- function() {
   data <- mtcars
-  ata$am <- as.factor(data$am)
+  data$am <- as.factor(data$am)
   data
 }
