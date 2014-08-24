@@ -1,3 +1,7 @@
 # Executive Summary
 
+We regress miles per gallon (mpg) the style of transmission (automatic vs. manual) using Ordinary Least Squares. We find that there is a significant negative correlation between the usage of an automatic transmission and mpg.
+
 # Appendix
+
+
